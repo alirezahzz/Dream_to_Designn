@@ -1,4 +1,4 @@
-# Dream to Design: Ultra-Low Carbon Reinforced Concrete Structures via Imagination Reinforcement Learning
+# Designing ultra low carbon reinforced concrete beams via imagination reinforcement learning
 
 Official code repository for the manuscript **"Dream to Design Ultra Low Carbon Reinforced Concrete Structures via Imagination Reinforcement Learning"**.
 
