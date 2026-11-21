@@ -11,7 +11,7 @@ Please use the **access password provided in the manuscript's Code Availability 
 - **Windows:** Right-click the file → **7-Zip** → **Extract Here** (recommended; built-in Windows 10 Explorer does not support AES-256 ZIP archives).
 - **macOS:** Open with **The Unarchiver**, **Keka**, or run `7z x Dream_to_Design_Code.zip` via Homebrew (`brew install p7zip` or `sevenzip`).
 
-(The full source code will be uploaded in unencrypted form upon publication.)
+(The source code will be uploaded in unencrypted form upon publication.)
 
 Repository Contents
 
