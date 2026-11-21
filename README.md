@@ -4,7 +4,7 @@ Official code repository for the manuscript **"Designing ultra low carbon reinfo
 
 ## Accessing the Source Code (During Peer Review)
 
-During the peer-review period, the source code archive (`Dream_to_Design_Code.zip`) is encrypted with **7-Zip (AES-256)**.  
+During the peer-review period, the source code archive (`Dream_to_Design_Code.zip`) is encrypted with **7-Zip**.  
 Please use the **access password provided in the manuscript's Code Availability Statement**.
 
 ### How to Extract
